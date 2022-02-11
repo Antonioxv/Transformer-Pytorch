@@ -1,6 +1,13 @@
 # Transformer-Pytorch
 Implementation of the transformer in pytorch, author: Chaoxin FU.
 
+## Train
+
+![acc](https://user-images.githubusercontent.com/51994221/153574287-846db6b3-d8e4-4a51-8d7d-03b803c2d889.png)
+
+![loss](https://user-images.githubusercontent.com/51994221/153574295-769444ea-9b9d-4a8a-b201-523892df8ebe.png)
+
+
 ## Reference
 
 [Attention Is All You Need](www.arixv.1706.03762)
