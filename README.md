@@ -8,6 +8,17 @@ Implementation of the transformer in pytorch, author: Chaoxin FU.
 ![loss](https://user-images.githubusercontent.com/51994221/153574295-769444ea-9b9d-4a8a-b201-523892df8ebe.png)
 
 
+## Acknowledgement
+
+Code derived and modified from: 
+
+[The Annotated Transformer - harvardnlp](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+[attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+
+[pytorch-transformer](https://github.com/leviswind/pytorch-transformer)
+
+
 ## Reference
 
 [Attention Is All You Need](www.arixv.1706.03762)
@@ -17,13 +28,3 @@ Implementation of the transformer in pytorch, author: Chaoxin FU.
 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 [Pytorch Doc](https://pytorch.org/docs)
-
-## Acknowledgements
-
-Code derived and modified from: 
-
-[The Annotated Transformer - harvardnlp](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
-
-[attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
-
-[pytorch-transformer](https://github.com/leviswind/pytorch-transformer)
