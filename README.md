@@ -1,5 +1,5 @@
 # Transformer-Pytorch
-Implementation of the transformer in pytorch, author: Chaoxin FU.
+Implementation of the transformer in pytorch.
 
 ## Train
 
